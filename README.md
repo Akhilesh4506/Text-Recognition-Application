@@ -36,7 +36,7 @@ This Java-based application is designed to detect and extract text and numbers f
   To get started with the Text/Number Detection in Images application, follow these steps:
 
     1. Clone the Repository: Clone this repository to your local machine using the following command:
-          https://github.com/akhilesh-anthwal-vs/Text_Detection_Application.git
+          https://github.com/Akhilesh4506/Text-Recognition-Application.git
     
     2. Install Dependencies: Install any required dependencies or libraries, such as Tesseract, OpenCV.
 
